@@ -106,28 +106,6 @@ The model is evaluated using:
 
 ---
 
-## 📂 Project Structure
-Neural-Networks-ANN-Sonar-Classification/
-│── ANN-Sonar-Classification.ipynb
-│── sonardataset.csv
-│── SONAR_Description.txt
-│── README.md
-│── requirements.txt
-
-
----
-
-## 📦 Requirements
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-
----
-
-👩‍💻 Author
+## 👩‍💻 Author
 
 Meghana C Varghese
